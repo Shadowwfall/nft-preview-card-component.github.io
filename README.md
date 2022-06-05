@@ -20,8 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Shadowwfall/qr-code-component)
-- Live Site URL: [Live Site](https://shadowwfall.github.io/qr-code-component/)
+- Solution URL: [Solution](https://github.com/Shadowwfall/nft-preview-card-component.github.io)
+- Live Site URL: [Live Site](https://shadowwfall.github.io/nft-preview-card-component.github.io/)
+- 
 
 ## My process
 
@@ -33,6 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - This helped me in figuring out what HTML and CSS attributes i can use. I really liked this pattern and will use it going forward.
+- [W3Schools](https://www.w3schools.com) - This helped me in figuring out what HTML and CSS attributes i can use. I really liked this pattern and will use it going forward.
 
 ## Author
 
